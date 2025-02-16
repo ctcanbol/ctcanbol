@@ -1,12 +1,10 @@
 ### Hi there 👋
 <br/>
-🔭 I'm a Backend Engineer with an undergraduate degree in Computer Engineering and a graduate degree in MBA.
+🔭 I'm a Software Architect with an undergraduate degree in Computer Engineering and a graduate degree in MBA.
 <br/><br/>
-💼 I'm currently working as an Engineering Manager in the core banking domain, have 12 years of experience in core banking solutions, and 5 years of experience in team leadership. 
+💼 I'm currently working as a Software Architect in the core banking domain, have 15 years of experience in core banking solutions, and 5 years of experience in team leadership. 
 <br/><br/>
 ⚡Most recently, I successfully led some modernization projects and have also been part of these projects in backend development and architectural design.
-<br/><br/>
-🌱 I’m currently interested in microservices ecosystem and CI/CD processes.
 
 <div align="center">
 <br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35px"/>
