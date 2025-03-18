@@ -4,7 +4,7 @@
 <br/><br/>
 💼 I'm currently working as a Software Architect in the core banking domain, have 15 years of experience in core banking solutions, and 5 years of experience in team leadership. 
 <br/><br/>
-⚡Most recently, I successfully led some modernization projects and have also been part of these projects in backend development and architectural design.
+⚡Most recently, I'm deeply involved in AI and DevOps ecosystem.
 
 <div align="center">
 <br/><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="35px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35px"/>
